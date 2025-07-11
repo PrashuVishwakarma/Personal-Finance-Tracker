@@ -6,7 +6,7 @@ A beautiful, fully responsive web application to track your income and expenses 
 
 ## 📌 Live Demo
 
-[🔗 View Live Project](https://prashuvishwakarma.github.io/Personal-Finance-tracker/)
+[🔗 View Live Project](https://prashuvishwakarma.github.io/Personal-Finance-Tracker/)
 
 ---
 
